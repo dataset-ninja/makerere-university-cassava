@@ -13,7 +13,7 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "makerere university cassava"
+PROJECT_NAME: str = "Makerere University Cassava"
 PROJECT_NAME_FULL: str = "Makerere University Cassava Image Dataset"
 HIDE_DATASET = True  # set False when 100% sure about repo quality
 
