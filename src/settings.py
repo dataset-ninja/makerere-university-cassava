@@ -50,7 +50,7 @@ DOWNLOAD_ORIGINAL_URL: Optional[
 ] = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4RB0B#"
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
-CLASS2COLOR: Optional[Dict[str, List[str]]] = None
+CLASS2COLOR: Optional[Dict[str, List[str]]] = {"cassava brown streak disease": [0, 0, 128]}
 # If specific colors for classes are needed, fill this dict (e.g. {"class1": [255, 0, 0], "class2": [0, 255, 0]})
 
 # If you have more than the one paper, put the most relatable link as the first element of the list
@@ -79,7 +79,7 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.ug.edu.gh/"
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
-    "__PRETEXT__": "Additionally, every image have information about its class type: ***cbsd***, ***cmd*** or ***healthy***. Explore it in supervisely labeling tool"
+    "health statuses": ["cbsd" "cmd", "healthy"]
 }
 TAGS: Optional[List[str]] = None
 
