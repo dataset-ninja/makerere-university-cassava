@@ -27,3 +27,9 @@ To facilitate seamless tracking and error containment, a distinct account was es
 Individuals involved in the data collection process included a team of researchers from the Makerere Artificial Intelligence Lab, an agricultural expert affiliated with the cereals program at the National Crops Resources Research Institute (NaCRRI), and a district agricultural officer.
 
 Cleaning of the data was done after data collection to rectify some errors that were created during collection. This included visually checking for images to ensure that they all showed the objects of interest which are the cassava leaves and all other unrelated objects were discarded. Verification of the variety names was also done and some of the variety names were corrected to reflect the correct and consistent spellings through consultation with the agricultural experts at the Namulonge Agricultural Research Institute.
+
+Note, similar **Makerere University Cassava Image Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
+
+- [The KaraAgro AI Maize Dataset](https://datasetninja.com/kara-agro-ai-maize)
+- [The KaraAgroAI Cocoa Dataset](https://datasetninja.com/kara-agro-ai-cocoa)
+- [Makerere University Beans Image Dataset](https://datasetninja.com/makerere-university-beans)
