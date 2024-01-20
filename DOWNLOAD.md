@@ -1,6 +1,6 @@
 Dataset **Makerere University Cassava** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/Q/m/vc/9KyZiyN6abimn9TuQRUuX569winNx5k4NAsnQR5JJVeufyrGf1T67Fv8C7jkmKHY7ba5yXnTrbolFeyNWvHUTGcDjcG1xxVay0dVIcTqxJxRs2wq62IlL6VlPvFL.tar)
+ [Download](https://www.dropbox.com/scl/fi/vmk0pg4d4391n8u8apm3h/makerere-university-cassava-DatasetNinja.tar?rlkey=pwdwu0achvpdfrc8qwvh4dzpw&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
